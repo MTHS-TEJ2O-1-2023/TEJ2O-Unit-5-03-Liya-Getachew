@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="DSKujXKeD6uoOkMUbGKy" name="Page-1">
-        <mxGraphModel dx="532" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="475" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -8,10 +8,16 @@
                     <mxGeometry x="153" y="40" width="520" height="475" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.21;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;endArrow=none;endFill=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3" target="2" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="600" y="619"/>
+                            <mxPoint x="600" y="562"/>
+                            <mxPoint x="262" y="562"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;" parent="1" vertex="1">
-                    <mxGeometry x="400" y="609" width="100" height="20" as="geometry"/>
+                    <mxGeometry x="470" y="610" width="100" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.148;entryY=0.947;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;endArrow=none;endFill=0;exitX=1;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4" target="2" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -30,10 +36,16 @@
                     <mxGeometry x="265" y="650" width="70" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" value="220&amp;nbsp;Ω&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-                    <mxGeometry x="420" y="630" width="60" height="30" as="geometry"/>
+                    <mxGeometry x="490" y="630" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="&lt;div&gt;TEJ2O #5-03&lt;/div&gt;&lt;div&gt;Liya Getachew&lt;/div&gt;&lt;div&gt;red LED&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="13" value="&lt;div&gt;TEJ2O #5-03&lt;/div&gt;&lt;div&gt;Liya Getachew&lt;/div&gt;&lt;div&gt;red LED&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="50" y="40" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_2;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="590" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="yellow LED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="374" y="650" width="80" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
